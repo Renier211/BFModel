@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: BFModel
+Version: 0.1
+Summary: A package for BFModel
+Requires-Python: >=3.6
+Requires-Dist: numpy
+Requires-Dist: pandas
